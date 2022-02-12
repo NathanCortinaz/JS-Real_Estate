@@ -32,7 +32,7 @@ const Property = ({
             <Avatar size="sm" src={agency?.logo?.url} />
           </Box>
         </Flex>
-        <Flex alginItems="center" p="1" justifyContent="space-between" w="250px" color="blue.400">
+        <Flex alignItems="center" p="1" justifyContent="space-between" w="250px" color="blue.400">
           {rooms} <FaBed /> | {baths} <FaBath /> | {millify(area)} sqft <BsGridFill />
         </Flex>
         <Text fontsize="lg">{title.length > 30 ? `${title.substring(0, 30)}...` : title}</Text>
