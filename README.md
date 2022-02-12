@@ -16,6 +16,6 @@ The website was built using the following tools:
 - RapidAPI
 - Vercel
 
-Take a look at it by accessing the link: [Realtor](https://realtor-orpin.vercel.app/)
+Take a look at it by accessing the link: [Realtor](https://realtor-nathancortinaz.vercel.app/)
 
 ![home_page](/assets/images/home_page.jpg)
